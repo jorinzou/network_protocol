@@ -1,0 +1,3 @@
+接收方应用没有及时recv消息，导致接收缓冲满，即滑动窗口为0，接收方发送TCP Zero Window告知发送方不能继续发送消息
+
+https://blog.csdn.net/jhcsdb/article/details/44086565
