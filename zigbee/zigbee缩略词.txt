@@ -1,0 +1,59 @@
+API    Application Programming Interface
+APL   Application Layer
+APS   ZigBee Application Support Sublayer
+BSP   Board Support Package
+EP      Endpoint
+HAL    Hardware (H/W) Abstraction Layer
+HA      Home Automation (A Stack Profile, Profile Id 0x0104)
+MT     Monitor Test
+NWK    ZigBee Network Layer
+OSAL   Operating System (OS) Abstraction Layer
+OTA   Over-The-Air
+PC      Personal Computer
+SAP    Service Access Point
+SPI     Serial Port Interface
+ZCL    ZigBee Cluster Library
+ZDO   ZigBee Device Objects
+AF     Application Framework
+AIB    APS Information Base
+APS    Application Support Sub-Layer
+APSDE APS Date Entity
+APSME APS Management Entity
+ASDU   APS Service Datagram Unit
+MSG    Message
+NHLE   Next Higher Layer Entity
+NWK    Network
+PAN     Personal Area Network
+STAR   A network topology consisting of one master device and multiple slave devices
+ZDO    ZigBee Device Object
+AES    Advanced Encryption Standard encryption algorithm.
+CAP    Contention Access Period
+CBC-MAC Cipher Block Chaining Message Authentication Code.
+CCM   Encryption using CTR with CBC-MAC.
+Coordinator A full function device that accepts associations and transmits beacons.
+CSMA-CA Carrier Sense Multiple Access with Collision Avoidance.
+CTR    Counter mode encryption.
+DSN    Data Sequence Number
+FFD    Full Function Device.
+LQI    Link Quality Indication.
+MAC    Medium Access Control.
+MCPS   MAC Common Part Sublayer (data interface).
+MIC    Message integrity code.
+MLME   MAC Sublayer Management Entity (management interface).
+MSDU   MAC Service Data Unit.
+PAN    Personal Area Network.
+PAN Coordinator A coordinator that is the principal coordinator of a PAN.
+PHY    Physical layer.
+PIB    PAN Information Base.
+RFD    Reduced Function Device.
+RSSI   Received Signal Strength Indicator
+SFD    Start of Frame Delimiter
+ADC    Analog to Digital Conversion
+CD     Carrier Detect
+CTS    Clear To Send
+DSR    Data Set Ready
+DTR    Data Terminal Ready
+GPIO   General Purpose Input Output
+HAL    Hardware Abstract Layer
+RI     Ring Indicator
+RTS    Ready To Send
